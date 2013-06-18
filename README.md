@@ -1,9 +1,9 @@
 camelize-examples
 =================
 
-This is a Ruby program to change strings or variable names from lowercase form to a mixed case form.
+A Ruby program to change strings or variable names from lowercase form to a mixed case form.
 
-For example
-===========
+How It Works
+============
 
 Camelize "hello-world" to "helloWorld".
